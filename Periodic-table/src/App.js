@@ -81,7 +81,7 @@ function App() {
       {isDarkMode ? '☀️ Light Mode' : '🌙 Dark Mode'}
     </button>
     <a
-      href="https://github.com/skipper-108/Periodic-table.git"
+      href="https://github.com/swayamwish"
       className="github-button"
       target="_blank"
       rel="noopener noreferrer"
